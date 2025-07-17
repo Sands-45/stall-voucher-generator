@@ -1,4 +1,4 @@
-# Stall Extension Starter
+# Stall Voucher Generator
 
 To get started building your own stall extension, follow these steps:
 
