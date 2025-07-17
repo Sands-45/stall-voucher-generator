@@ -1,7 +1,5 @@
 # Stall Voucher Generator
 
-To get started building your own stall extension, follow these steps:
-
 1. Clone the repository:
    ```
    git clone https://github.com/your-username/stall-extension-starter.git
