@@ -7,4 +7,11 @@ const generateVoucher = (percentage: number): string => {
   return mockRandom;
 };
 
-export { generateVoucher };
+const generateCoupon= (percentage: number): string => {
+  console.log("Generating a discount or voucher");
+  const mockRandom = uuid() + percentage;
+
+  return mockRandom;
+};
+
+export { generateVoucher,generateCoupon };
