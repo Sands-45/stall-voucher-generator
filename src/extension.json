@@ -3,7 +3,7 @@
   "id": "voucher-generator",
   "name": "Voucher generator",
   "description": "Test voucher generator developed by Stall",
-  "keywords": ["discount", "voucher"],
+  "keywords": ["discount", "voucher","coupon"],
   "icon": "assests/icon.svg",
   "version": "0.0.1",
   "authors": ["Sands"],
